@@ -1,0 +1,2 @@
+# fuzzy-journey
+Practicing GitHub
