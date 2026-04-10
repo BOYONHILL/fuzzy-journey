@@ -62,9 +62,16 @@ body {
     background-color: #e6890a;
 }
 
+.function {
+    background-color: #5b6cff;
+}
+
+.function:hover {
+    background-color: #4a5bd0;
+}
+
 .equals {
     background-color: #ff9500;
-    grid-column: span 1;
 }
 
 .equals:hover {
